@@ -1,6 +1,19 @@
+# Number Sense
+
+a web application for practicing mental math
+
+## features/ideas/improvements:
+- difficulty selector or the ability to configure range of question operands
+- option to either "Play Again" or "Change Settings" after a game instance is finished
+- also, experiment with styling while maintaining minimal UI
+
+___
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<!--
 
 ## Available Scripts
 
@@ -68,3 +81,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-->

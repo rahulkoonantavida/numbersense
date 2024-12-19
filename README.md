@@ -3,8 +3,9 @@
 a web application for practicing mental math
 
 ## features/ideas/improvements:
+- REFACTOR! (StartGame component, Problem component, ...)
 - difficulty selector or the ability to configure range of question operands
-- option to either "Play Again" or "Change Settings" after a game instance is finished
+- ~~option to either "Play Again" or "Change Settings" after a game instance is finished~~
 - also, experiment with styling while maintaining minimal UI
 
 ___
